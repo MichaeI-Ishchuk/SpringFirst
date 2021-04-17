@@ -20,7 +20,7 @@ public class StartController {
         String getRootURLmain()
         {
 
-            return "Hello Nataly";
+            return "Hello";
 
 
     }
